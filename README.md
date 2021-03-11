@@ -9,6 +9,6 @@ The policy of OCLC also prohibits commerical use of their data. Please make sure
 of this user script is not responsible for any abuse or violation.
 
 However, the author urges that OCLC or any other similar organizations should take actions to provide higher level of data openness for academic reseachers,
-as the catalogs of public libraries itself form a corpus for data-driven studies in humanities and social sciences.
+as the catalogs of public libraries _per se_ form a corpus for data-driven studies in humanities and social sciences.
 
 LICENSE: MIT
